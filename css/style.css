@@ -49,7 +49,7 @@
 }
 
 
-.btn-verde{
+.btn-naranja{
 	background-color: #E48C0C !important;
 	color: #000000 !important;
 	display: block !important;
@@ -57,15 +57,31 @@
 	width: 100%;
 	border-radius: 0 !important;
 }
-.btn-gris{
-	background-color: #fff !important;
-	color: #E48C0C !important;
-	display: block !important;
-	text-align: center;
-	width: 100%;
-	border-radius: 0 !important;
-	border:1px solid #ccc !important;
+
+
+
+.card-recetas{
+    background-color: #f3f3f3;
+    padding: 10px;
 }
+.card-header h3{
+    color: #5C5C5E !important;
+    font-size: 16px !important;
+    margin: 0;
+}
+.card-content{
+    text-align: center;
+}
+.card-content img{
+    width: 120px;
+    margin: 0 auto;
+}
+.card-footer{
+    color: #0d9f67 !important;
+    font-weight: 400 !important;
+}
+
+
 
 
 
